@@ -1,5 +1,5 @@
 
-package deadlock_example;
+package thread.deadlock_example;
 
 public class Kitchen {
 

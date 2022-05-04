@@ -1,4 +1,4 @@
-package scannerexample;
+package io.scannerexample;
 
 public class Person {
     

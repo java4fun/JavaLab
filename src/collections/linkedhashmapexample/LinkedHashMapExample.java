@@ -1,5 +1,5 @@
 
-package linkedhashmapexample;
+package collections.linkedhashmapexample;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

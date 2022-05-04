@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class StreamExample2 {
+public class StreamExample3 {
     static class Employee {
         public final String name;
         public final Integer age;

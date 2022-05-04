@@ -1,5 +1,5 @@
 
-package filecopyexample;
+package io.filecopyexample;
 
 import java.io.IOException;
 import java.nio.file.Files;

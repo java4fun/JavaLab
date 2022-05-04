@@ -1,4 +1,4 @@
-package queueexample;
+package collections.queueexample;
 
 public class Customer {
     

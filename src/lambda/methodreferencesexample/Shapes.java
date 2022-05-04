@@ -1,5 +1,5 @@
 
-package methodreferencesexample;
+package lambda.methodreferencesexample;
 
 @FunctionalInterface
 public interface Shapes {

@@ -1,4 +1,4 @@
-package wildcards;
+package generics.wildcards;
 
 class Building {
 

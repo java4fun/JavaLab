@@ -1,4 +1,4 @@
-package queueexample;
+package collections.queueexample;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

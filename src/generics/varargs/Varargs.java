@@ -1,5 +1,5 @@
 
-package varargs;
+package generics.varargs;
 
 public class Varargs {
     

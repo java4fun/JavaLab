@@ -1,4 +1,4 @@
-package streamexample;
+package lambda.streamexample;
 
 public class Book {
 

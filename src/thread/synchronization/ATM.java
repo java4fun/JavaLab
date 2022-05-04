@@ -1,5 +1,5 @@
 
-package synchronization;
+package thread.synchronization;
 
 public class ATM {    
     

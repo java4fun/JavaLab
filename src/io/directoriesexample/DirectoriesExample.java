@@ -1,4 +1,4 @@
-package directoriesexample;
+package io.directoriesexample;
 
 import java.io.File;
 import java.io.FilenameFilter;

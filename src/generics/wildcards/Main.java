@@ -1,5 +1,5 @@
 
-package wildcards;
+package generics.wildcards;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -51,7 +51,9 @@ public class Main {
     
     // Out variable: super
     static void addHouseToList(List<? super House> buildings) {
-        buildings.add(new House());
+        buildings.add(new House());  // House or its sub-class (child class)
+        buildings.add((House) new Building()); // NOT super(parent)-class of House
+        
         System.out.println();
     }
     

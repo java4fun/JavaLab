@@ -1,5 +1,5 @@
 
-package wildcards;
+package generics.wildcards;
 
 
 class Office extends Building {        

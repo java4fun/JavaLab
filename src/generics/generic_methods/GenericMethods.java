@@ -1,4 +1,4 @@
-package generic_methods;
+package generics.generic_methods;
 
 import java.util.ArrayList;
 import java.util.List;

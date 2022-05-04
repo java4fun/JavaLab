@@ -1,5 +1,5 @@
 
-package fileexample;
+package io.fileexample;
 
 import java.io.File;
 import java.io.IOException;

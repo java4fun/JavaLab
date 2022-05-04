@@ -1,5 +1,5 @@
 
-package scannerexample;
+package io.scannerexample;
 
 import java.util.Scanner;
 

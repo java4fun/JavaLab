@@ -1,4 +1,4 @@
-package parallelstreamsexample;
+package lambda.parallelstreamsexample;
 
 public class Book {
 

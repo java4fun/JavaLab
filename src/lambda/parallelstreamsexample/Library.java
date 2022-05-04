@@ -1,4 +1,4 @@
-package parallelstreamsexample;
+package lambda.parallelstreamsexample;
 
 import java.util.ArrayList;
 

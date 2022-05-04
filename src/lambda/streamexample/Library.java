@@ -1,4 +1,4 @@
-package streamexample;
+package lambda.streamexample;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package methodreferencesexample;
+package lambda.methodreferencesexample;
 
 public class Main {
 

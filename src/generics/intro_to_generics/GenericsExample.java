@@ -1,5 +1,5 @@
 
-package intro_to_generics;
+package generics.intro_to_generics;
 
 import java.util.ArrayList;
 import java.util.List;

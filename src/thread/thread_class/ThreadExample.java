@@ -1,4 +1,4 @@
-package thread_class;
+package thread.thread_class;
 
 public class ThreadExample extends Thread {
     

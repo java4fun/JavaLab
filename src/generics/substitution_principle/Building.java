@@ -1,5 +1,5 @@
 
-package substitution_principle;
+package generics.substitution_principle;
 
 class Building {
     

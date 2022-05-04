@@ -1,4 +1,4 @@
-package trywithresourcesexample;
+package io.trywithresourcesexample;
 
 import java.io.BufferedReader;
 import java.io.IOException;

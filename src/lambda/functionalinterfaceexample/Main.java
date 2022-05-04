@@ -1,5 +1,5 @@
 
-package functionalinterfaceexample;
+package lambda.functionalinterfaceexample;
 
 public class Main {
 

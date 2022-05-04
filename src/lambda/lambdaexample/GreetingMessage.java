@@ -1,5 +1,5 @@
 
-package lambdaexample;
+package lambda.lambdaexample;
 
 @FunctionalInterface
 public interface GreetingMessage {

@@ -1,5 +1,5 @@
 
-package runnable_interface;
+package thread.runnable_interface;
 
 
 public class RunnableExample implements Runnable {

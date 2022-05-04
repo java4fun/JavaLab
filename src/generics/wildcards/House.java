@@ -1,5 +1,5 @@
 
-package wildcards;
+package generics.wildcards;
 
 public class House extends Building {
     

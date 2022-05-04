@@ -1,4 +1,4 @@
-package lambdaexample;
+package lambda.lambdaexample;
 
 
 public class Main {
